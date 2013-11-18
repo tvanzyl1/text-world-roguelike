@@ -1,5 +1,3 @@
-#The Game Features.
-
 = Introduction =
 
 The features are still expanding but listed below are some already included.
