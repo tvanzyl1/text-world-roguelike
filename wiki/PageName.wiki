@@ -1,0 +1,17 @@
+#The Game Features.
+
+= Introduction =
+
+The features are still expanding but listed below are some already included.
+
+
+= Details =
+
+The game uses libjcsi library as a back bone. I have some reserved comments about it. But I believe it will do for now. 
+
+There are zombies and they hurt.
+the player has health, hunger and thirst counters.
+The player has an inventory.
+Stack-able building material in the inventory.
+An axe and a sledgehammer to create building material.
+Some weapons including bow, hand gun and rifle.
