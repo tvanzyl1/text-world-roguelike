@@ -338,7 +338,11 @@ public class GenerationService {
 				} else
 				//Extras
 				if(r==127 && g ==0 && b >=110){
-					arrToReturn.get(y).add("E"+String.valueOf(b-110)+"D"+"1");
+					if(b-110<10)
+						 arrToReturn.get(y).add("E"+String.valueOf(b-110)+"D"+"1");
+						else if(b-110 == 10){
+							arrToReturn.get(y).add("E"+"R"+"D"+"1");
+						}
 				} else
 				//Empty World
 				{
