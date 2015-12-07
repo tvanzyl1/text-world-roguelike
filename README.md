@@ -13,3 +13,21 @@ Using simple libraries I played with writing a simple roguelike game. An ASCII w
 * Then there are the odd zombie lurking in populated areas.
 * Main library used: http://slashie.net/libjcsi/
 
+### Menu
+![Architecture](http://i102.photobucket.com/albums/m90/Anno_Nonymous/Menu.png)
+
+### Exploring maps
+![Architecture](http://i102.photobucket.com/albums/m90/Anno_Nonymous/explored.png)
+
+### Exploring buildings
+![Architecture](http://i102.photobucket.com/albums/m90/Anno_Nonymous/house_explore.png)
+
+### Help screen
+![Architecture](http://i102.photobucket.com/albums/m90/Anno_Nonymous/help.png)
+
+### World generation
+The world generated from a 100x100 bmp file: 
+
+![Architecture](http://i102.photobucket.com/albums/m90/Anno_Nonymous/map.png)
+
+P.S. Please note that I'm not developer and that the result which is this little game is what happens when I slap a few java files together. There is no proper structure and duplicated code and services all over.
